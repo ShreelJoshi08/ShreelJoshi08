@@ -1,13 +1,10 @@
 ## Hi there 👋
+My Self Shreel Joshi 
 
-
-**ShreelJoshi08/ShreelJoshi08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+About Me:
 - 🔭 I’m currently working on ML based project for SGP-4
 - 🌱 I’m currently learning react.js,Cloud Computing
-- 💬 Ask me about ... I love gaming 🎮
+- 💬 Ask me about ... I love gaming 🎮,friends call me Marco 😄
 - 📫 How to reach me: shreeljoshi09@gmail.com
 - 💼 Linkedin - https://www.linkedin.com/in/shreeljoshi/
 - ⚡ Fun fact: I am Introvert 😄
