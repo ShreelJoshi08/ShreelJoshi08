@@ -7,10 +7,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ML based project for SGP-4
 - 🌱 I’m currently learning react.js,Cloud Computing
-- 💬 Ask me about ...
+- 💬 Ask me about ... I love gaming 🎮
 - 📫 How to reach me: shreeljoshi09@gmail.com
 - 💼 Linkedin - https://www.linkedin.com/in/shreeljoshi/
-- ⚡ Fun fact: I am Introver 😄
+- ⚡ Fun fact: I am Introvert 😄
+- My portfolio - https://shreeljoshi.vercel.app/
 
 
 
